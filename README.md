@@ -5,3 +5,5 @@ https://towardsdatascience.com/guide-to-interpretable-machine-learning-d40e8a64b
 
 ## Interpretable ML book:
 https://christophm.github.io/interpretable-ml-book/index.html
+
+## Quick examples using SHAP
